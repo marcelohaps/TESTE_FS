@@ -5,6 +5,10 @@
 int soma(int x, int y){
     return x + y;
 }
+
+int multiplicação(int x, int y){
+    return x * y;
+}
 int main(){
 
 
